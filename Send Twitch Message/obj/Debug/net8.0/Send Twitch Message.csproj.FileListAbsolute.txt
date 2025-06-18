@@ -1,0 +1,38 @@
+C:\Users\solar\source\repos\Send Twitch Message\bin\Debug\net8.0\Send Twitch Message.exe
+C:\Users\solar\source\repos\Send Twitch Message\bin\Debug\net8.0\Send Twitch Message.deps.json
+C:\Users\solar\source\repos\Send Twitch Message\bin\Debug\net8.0\Send Twitch Message.runtimeconfig.json
+C:\Users\solar\source\repos\Send Twitch Message\bin\Debug\net8.0\Send Twitch Message.dll
+C:\Users\solar\source\repos\Send Twitch Message\bin\Debug\net8.0\Send Twitch Message.pdb
+C:\Users\solar\source\repos\Send Twitch Message\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\solar\source\repos\Send Twitch Message\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\solar\source\repos\Send Twitch Message\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\solar\source\repos\Send Twitch Message\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\solar\source\repos\Send Twitch Message\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\solar\source\repos\Send Twitch Message\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\solar\source\repos\Send Twitch Message\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\solar\source\repos\Send Twitch Message\bin\Debug\net8.0\TwitchLib.Api.dll
+C:\Users\solar\source\repos\Send Twitch Message\bin\Debug\net8.0\TwitchLib.Api.Core.dll
+C:\Users\solar\source\repos\Send Twitch Message\bin\Debug\net8.0\TwitchLib.Api.Core.Enums.dll
+C:\Users\solar\source\repos\Send Twitch Message\bin\Debug\net8.0\TwitchLib.Api.Core.Interfaces.dll
+C:\Users\solar\source\repos\Send Twitch Message\bin\Debug\net8.0\TwitchLib.Api.Core.Models.dll
+C:\Users\solar\source\repos\Send Twitch Message\bin\Debug\net8.0\TwitchLib.Api.Helix.dll
+C:\Users\solar\source\repos\Send Twitch Message\bin\Debug\net8.0\TwitchLib.Api.Helix.Models.dll
+C:\Users\solar\source\repos\Send Twitch Message\bin\Debug\net8.0\TwitchLib.Client.dll
+C:\Users\solar\source\repos\Send Twitch Message\bin\Debug\net8.0\TwitchLib.Client.Enums.dll
+C:\Users\solar\source\repos\Send Twitch Message\bin\Debug\net8.0\TwitchLib.Client.Models.dll
+C:\Users\solar\source\repos\Send Twitch Message\bin\Debug\net8.0\TwitchLib.Communication.dll
+C:\Users\solar\source\repos\Send Twitch Message\bin\Debug\net8.0\TwitchLib.EventSub.Core.dll
+C:\Users\solar\source\repos\Send Twitch Message\bin\Debug\net8.0\TwitchLib.EventSub.Websockets.dll
+C:\Users\solar\source\repos\Send Twitch Message\bin\Debug\net8.0\TwitchLib.PubSub.dll
+C:\Users\solar\source\repos\Send Twitch Message\bin\Debug\net8.0\websocket-sharp.dll
+C:\Users\solar\source\repos\Send Twitch Message\obj\Debug\net8.0\Send Twitch Message.csproj.AssemblyReference.cache
+C:\Users\solar\source\repos\Send Twitch Message\obj\Debug\net8.0\Send Twitch Message.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solar\source\repos\Send Twitch Message\obj\Debug\net8.0\Send Twitch Message.AssemblyInfoInputs.cache
+C:\Users\solar\source\repos\Send Twitch Message\obj\Debug\net8.0\Send Twitch Message.AssemblyInfo.cs
+C:\Users\solar\source\repos\Send Twitch Message\obj\Debug\net8.0\Send Twitch Message.csproj.CoreCompileInputs.cache
+C:\Users\solar\source\repos\Send Twitch Message\obj\Debug\net8.0\Send Twitch Message.csproj.CopyComplete
+C:\Users\solar\source\repos\Send Twitch Message\obj\Debug\net8.0\Send Twitch Message.dll
+C:\Users\solar\source\repos\Send Twitch Message\obj\Debug\net8.0\refint\Send Twitch Message.dll
+C:\Users\solar\source\repos\Send Twitch Message\obj\Debug\net8.0\Send Twitch Message.pdb
+C:\Users\solar\source\repos\Send Twitch Message\obj\Debug\net8.0\Send Twitch Message.genruntimeconfig.cache
+C:\Users\solar\source\repos\Send Twitch Message\obj\Debug\net8.0\ref\Send Twitch Message.dll
